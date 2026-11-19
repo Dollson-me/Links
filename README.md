@@ -53,6 +53,6 @@ https://sekurak.pl
 https://cert.orange.pl
 https://niebezpiecznik.pl
 https://cyberdefence24.pl
-https://zaufanatrzeciastrona.
+https://zaufanatrzeciastrona.pl
 https://www.cybsecurity.org/pl/
 https://www.nask.pl
