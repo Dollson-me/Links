@@ -1,5 +1,5 @@
 # Links 
-
+![BLUE TEAM](https://img.shields.io/badge/BLUE-TEAM?style=flat&labelColor=blue&color=transparent)
 ### Wiki 
  - https://hackersmanifest.com
  - https://github.com/notthehiddenwiki
