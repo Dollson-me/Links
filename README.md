@@ -1,6 +1,5 @@
 
-    ## Links ##
-
+    ### Links ###
 
     # Wiki #
 https://hackersmanifest.com
@@ -17,6 +16,8 @@ https://github.com/OTRF/ThreatHunter-Playbook
 https://threathunterplaybook.com/intro.html
 https://github.com/sans-blue-team
 https://www.cisecurity.org
+https://github.com/SigmaHQ/sigma
+
 
     # RedTeam #
 https://www.pentest-book.com/others/purple-team
