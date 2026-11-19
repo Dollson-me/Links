@@ -18,12 +18,13 @@
  - https://github.com/sans-blue-team
  - https://www.cisecurity.org
  - https://github.com/SigmaHQ/sigma
+ - https://github.com/sbilly/awesome-security
 
 ---
 
 ### RedTeam 
 
- - https://www.pentest-book.com/others/purple-team
+ - https://www.pentest-book.com
  - https://github.com/redcanaryco/atomic-red-team
  - https://github.com/jivoi/awesome-osint
  - https://github.com/DataSploit/datasploit
