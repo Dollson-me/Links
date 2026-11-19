@@ -35,7 +35,7 @@
 
 ---
 
-![image](https://github.com/user-attachments/assets/de4d94f6-3a46-46ba-88df-27b7950127d6)
+![Delfin](https://img.shields.io/badge/Delfin?style=flat&color=333333&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACwAAAAeCAMAAABg6AyVAAAACVBMVEX%2F%2F%2F%2FulEHtlEHg%2FRDMAAAAAXRSTlMAQObYZgAAAJ5JREFUOMudlIEOgCAIRL37%2F49u1DSkQ7G2ljueByGztcIDoIJlOKaPwPuKAJ0KRUK4cbZxeTHCMdlE80YtxqAq%2BiktpPPp4d6uIGH5hr4Nsk7K3h%2BcCCSbiWVZirx7YwHuffnoiL2RNbyws87qVf%2BX1MB46KsajIZi%2B9xigonFjET6azuWMbatdrPhN1u%2FBark2RjXXQ9gu3WO7jcBX52JAO7DPHPEAAAAAElFTkSuQmCC&logoWidth=18)
 ### Flipper 
 
 
