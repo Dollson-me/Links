@@ -1,5 +1,5 @@
 # Links 
-![BLUE TEAM](https://img.shields.io/badge/BLUE-TEAM?style=flat&labelColor=blue&color=transparent)
+
 ### Wiki 
  - https://hackersmanifest.com
  - https://github.com/notthehiddenwiki
@@ -11,7 +11,7 @@
     
 ---
 
-### BlueTeam 
+###  ![Static Badge](https://img.shields.io/badge/build-TEAM-grey?style=flat&label=BLUE&labelColor=blue)
 
  - https://github.com/OTRF/ThreatHunter-Playbook
  - https://threathunterplaybook.com/intro.html
@@ -22,7 +22,8 @@
 
 ---
 
-### RedTeam 
+### ![Static Badge](https://img.shields.io/badge/build-TEAM-grey?style=flat&label=RED&labelColor=red)
+ 
 
  - https://www.pentest-book.com
  - https://github.com/redcanaryco/atomic-red-team
