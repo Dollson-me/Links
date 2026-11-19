@@ -1,4 +1,3 @@
-
     ### Links ###
 
     # Wiki #
@@ -28,6 +27,11 @@ https://counterintelligence.pl/narzedzia/
 https://owasp.org/projects/owtf
 https://www.osinthandbook.com
 https://osintframework.com
+
+    # Flipper #
+https://momentum-fw.dev
+https://arf.d4c1.com
+https://protopirate.net/ProtoPirate/ProtoPirate
 
 
     # Blogs & News #
