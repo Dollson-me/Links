@@ -46,7 +46,7 @@ https://opensecurity.pl
 https://akademiawywiadu.pl/blog/
 https://gynvael.coldwind.pl
 https://www.sagiton.pl/blog
-
+https://www.eff.org
 
 https://cert.pl
 https://sekurak.pl
