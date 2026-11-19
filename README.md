@@ -35,6 +35,7 @@
 
 ---
 
+![Flipper Zero](https://shields.io)
 ### Flipper 
 <img src="https://github.com" alt="Flipper Zero" width="32" align="absmiddle" /> **Flipper Zero**
 
