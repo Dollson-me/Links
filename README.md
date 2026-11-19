@@ -35,7 +35,7 @@
 
 ---
 
-![Flipper Zero](https://shields.io)
+![image](https://github.com/user-attachments/assets/de4d94f6-3a46-46ba-88df-27b7950127d6)
 ### Flipper 
 
 
