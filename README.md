@@ -1,6 +1,6 @@
 # Links 
 
-## Wiki 
+### Wiki 
  - https://hackersmanifest.com
  - https://github.com/notthehiddenwiki
  - https://wiki.owasp.org/index.php/Main_Page
@@ -11,7 +11,7 @@
     
 ---
 
-    ## BlueTeam 
+### BlueTeam 
 
  - https://github.com/OTRF/ThreatHunter-Playbook
  - https://threathunterplaybook.com/intro.html
@@ -21,7 +21,7 @@
 
 ---
 
-    ## RedTeam 
+### RedTeam 
 
  - https://www.pentest-book.com/others/purple-team
  - https://github.com/redcanaryco/atomic-red-team
@@ -34,7 +34,7 @@
 
 ---
 
-    ## Flipper 
+### Flipper 
 
  - https://momentum-fw.dev
  - https://arf.d4c1.com
@@ -42,7 +42,7 @@
 
 ---
 
-    ## Blogs & News 
+### Blogs & News 
 
  - https://kapitanhack.pl
  - https://www.sirt.pl
